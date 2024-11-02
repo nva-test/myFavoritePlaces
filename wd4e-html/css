@@ -1,1 +1,37 @@
-
+link {
+    display: none;
+  }
+  
+  body {
+    background-color: #e9d6ff;
+  }
+  
+  h1 {
+    color: #6e46a0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    font-size: 300%;
+    text-align: center;
+    line-height: 120%;
+  }
+  
+  h2 {
+    color: #6e46a0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    font-size: 200%;
+  }
+  
+  .blue {
+    color: blue;
+  }
+  
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+  }
+  
+  a {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+  }
